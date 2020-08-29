@@ -1,0 +1,12 @@
+{
+  "name": "parksphone",
+  "displayName": "parksphone",
+  "expo": {
+    "name": "parksphone",
+    "slug": "parksphone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
